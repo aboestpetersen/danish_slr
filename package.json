@@ -1,0 +1,25 @@
+{
+  "name": "danish_slr",
+  "version": "1.0.0",
+  "description": "Visualization of Sea Level Rise and its impacts in Denmark.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboestpetersen/danish_slr.git"
+  },
+  "author": "Alexander Boest-Petersen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aboestpetersen/danish_slr/issues"
+  },
+  "homepage": "https://github.com/aboestpetersen/danish_slr#readme",
+  "dependencies": {
+    "ol": "^6.5.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
